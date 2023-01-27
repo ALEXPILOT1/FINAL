@@ -21,7 +21,7 @@ void Massiv(string array)
     
 }
 
-// System.Console.WriteLine("Введи пару слов ");
+System.Console.WriteLine("Введи пару слов ");
 // string word = Console.ReadLine();
 // Massiv(word);
 

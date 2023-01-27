@@ -1,0 +1,15 @@
+C:\Users\89104\OneDrive\Рабочий стол\GB\GB_FINAL\bin\Debug\net7.0\GB_FINAL.exe
+C:\Users\89104\OneDrive\Рабочий стол\GB\GB_FINAL\bin\Debug\net7.0\GB_FINAL.deps.json
+C:\Users\89104\OneDrive\Рабочий стол\GB\GB_FINAL\bin\Debug\net7.0\GB_FINAL.runtimeconfig.json
+C:\Users\89104\OneDrive\Рабочий стол\GB\GB_FINAL\bin\Debug\net7.0\GB_FINAL.dll
+C:\Users\89104\OneDrive\Рабочий стол\GB\GB_FINAL\bin\Debug\net7.0\GB_FINAL.pdb
+C:\Users\89104\OneDrive\Рабочий стол\GB\GB_FINAL\obj\Debug\net7.0\GB_FINAL.csproj.AssemblyReference.cache
+C:\Users\89104\OneDrive\Рабочий стол\GB\GB_FINAL\obj\Debug\net7.0\GB_FINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\89104\OneDrive\Рабочий стол\GB\GB_FINAL\obj\Debug\net7.0\GB_FINAL.AssemblyInfoInputs.cache
+C:\Users\89104\OneDrive\Рабочий стол\GB\GB_FINAL\obj\Debug\net7.0\GB_FINAL.AssemblyInfo.cs
+C:\Users\89104\OneDrive\Рабочий стол\GB\GB_FINAL\obj\Debug\net7.0\GB_FINAL.csproj.CoreCompileInputs.cache
+C:\Users\89104\OneDrive\Рабочий стол\GB\GB_FINAL\obj\Debug\net7.0\GB_FINAL.dll
+C:\Users\89104\OneDrive\Рабочий стол\GB\GB_FINAL\obj\Debug\net7.0\refint\GB_FINAL.dll
+C:\Users\89104\OneDrive\Рабочий стол\GB\GB_FINAL\obj\Debug\net7.0\GB_FINAL.pdb
+C:\Users\89104\OneDrive\Рабочий стол\GB\GB_FINAL\obj\Debug\net7.0\GB_FINAL.genruntimeconfig.cache
+C:\Users\89104\OneDrive\Рабочий стол\GB\GB_FINAL\obj\Debug\net7.0\ref\GB_FINAL.dll
